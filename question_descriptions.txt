@@ -1,0 +1,40 @@
+Condições econômicas: Q3: Você diria que o país está indo na direção errada ou na direção certa?
+Condições econômicas: Q4A: Em geral, como você descreveria a condição econômica atual deste país?
+Condições econômicas: Q4B: Em geral, como você descreveria suas próprias condições de vida atuais?
+Condições econômicas: Q5A: Olhando para trás, como você avalia as condições econômicas neste país em comparação com 12 meses atrás?
+Condições econômicas: Q5B: Olhando para o futuro, você espera que as condições econômicas neste país sejam melhores ou piores daqui a 12 meses?
+Condições econômicas: Q6A: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família ficou sem comida suficiente para comer?
+Condições econômicas: Q6B: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família ficou sem água limpa suficiente para uso doméstico?
+Condições econômicas: Q6C: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família ficou sem medicamentos ou tratamento médico?
+Condições econômicas: Q6D: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família ficou sem combustível suficiente para cozinhar sua comida?
+Condições econômicas: Q6E: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família ficou sem uma renda em dinheiro?
+Condições econômicas: Q46A: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Gerenciando a economia?
+Condições econômicas: Q46B: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Melhorando o padrão de vida dos pobres?
+Condições econômicas: Q46C: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Criando empregos?
+Condições econômicas: Q46D: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Mantendo os preços estáveis?
+Condições econômicas: Q46E: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Reduzindo as lacunas entre ricos e pobres?
+Segurança e crime: Q7A: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família Sentiu-se inseguro andando em seu bairro?
+Segurança e crime: Q7B: Durante o ano passado, com que frequência, se alguma vez, você ou alguém da sua família Teve medo de crime em sua própria casa?
+Segurança e crime: Q43A: Nos últimos 12 meses, você solicitou assistência da polícia?
+Segurança e crime: Q43D: Nos últimos 12 meses, com que frequência você encontrou a polícia em outras situações, como em postos de controle, durante verificações de identidade ou paradas de trânsito, ou durante uma investigação?
+Segurança e crime: Q43E: Com que frequência, se alguma vez, você teve que pagar um suborno, dar um presente ou fazer um favor a um policial para evitar um problema durante um desses encontros?
+Segurança e crime: Q44A: Na sua opinião, com que frequência a polícia em Angola age de maneira profissional e respeita os direitos de todos os cidadãos?
+Segurança e crime: Q44B: Na sua opinião, com que frequência a polícia em Angola para motoristas sem um bom motivo?
+Segurança e crime: Q44C: Na sua opinião, com que frequência a polícia em Angola usa força excessiva no gerenciamento de protestos ou manifestações?
+Segurança e crime: Q44D: Na sua opinião, com que frequência a polícia em Angola usa força excessiva ao lidar com criminosos?
+Segurança e crime: Q44E: Na sua opinião, com que frequência a polícia em Angola se envolve em atividades criminosas?
+Segurança e crime: Q46F: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Reduzindo o crime?
+Segurança e crime: Q83A_ANG: Em geral, você diria que Angola é um país seguro ou inseguro para se viver?
+Segurança e crime: Q83B_ANG: Olhando para os últimos 5 anos, você sente que Angola se tornou mais segura ou menos segura?
+Segurança e crime: Q83C_ANG: A quem você normalmente recorre primeiro para obter assistência, quando está preocupado com sua segurança e a segurança de sua família?
+Segurança e crime: Q83D_ANG: Na sua opinião, qual é a ameaça mais séria à sua segurança e proteção em seu bairro?
+Violência e segurança infantil: Q46O: Quão bem ou mal você diria que o governo atual está lidando com as seguintes questões, ou você não ouviu o suficiente para dizer? Protegendo e promovendo o bem-estar de crianças vulneráveis?
+Violência e segurança infantil: Q52A: Para cada uma das seguintes ações, por favor, diga-me se você acha que ela sempre pode ser justificada, às vezes pode ser justificada ou nunca pode ser justificada Que os pais usem força física para disciplinar seus filhos?
+Violência e segurança infantil: Q52B: Para cada uma das seguintes ações, por favor, diga-me se você acha que ela sempre pode ser justificada, às vezes pode ser justificada ou nunca pode ser justificada Que um homem use disciplina física em sua esposa se ela fez algo que ele não gosta ou acha que está errado?
+Violência e segurança infantil: Q53A: Nesta área, quão comum você acha que é os homens usarem violência contra mulheres e meninas em casa ou na comunidade?
+Violência e segurança infantil: Q53B: Se uma mulher em sua comunidade for à polícia para denunciar ser vítima de violência de gênero, por exemplo, para denunciar um estupro ou denunciar ter sido abusada fisicamente por seu marido, qual a probabilidade ou improbabilidade de que as seguintes coisas possam ocorrer? Seu caso será levado a sério pela polícia?
+Violência e segurança infantil: Q53C: Se uma mulher em sua comunidade for à polícia para denunciar ser vítima de violência de gênero, por exemplo, para denunciar um estupro ou denunciar ter sido abusada fisicamente por seu marido, qual a probabilidade ou improbabilidade de que as seguintes coisas possam ocorrer? Ela será criticada, assediada ou envergonhada por outros na comunidade?
+Violência e segurança infantil: Q54: Qual das seguintes afirmações está mais próxima da sua opinião? Escolha a Afirmação 1 ou a Afirmação 2. A violência doméstica é um assunto privado que precisa ser tratado e resolvido dentro da família.
+Violência e segurança infantil: Q55A: Com que frequência você acha que as seguintes coisas acontecem em sua comunidade ou bairro? Adultos usam força física para disciplinar crianças?
+Violência e segurança infantil: Q55B: Com que frequência você acha que as seguintes coisas acontecem em sua comunidade ou bairro? Crianças são abusadas, maltratadas ou negligenciadas?
+Violência e segurança infantil: Q55C: Com que frequência você acha que as seguintes coisas acontecem em sua comunidade ou bairro? Crianças que deveriam estar na escola não estão na escola?
